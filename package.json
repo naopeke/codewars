@@ -1,0 +1,21 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha",
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "author": "nao",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jsdoc": "^4.0.3"
+  },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "moca": "^0.4.3",
+    "mocha": "^10.4.0"
+  }
+}
